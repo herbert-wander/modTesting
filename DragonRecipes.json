@@ -6,7 +6,7 @@
       "item": "LeatherScraps",
       "amount": 4,
       "craftingStation": "piece_workbench",
-      "minStationLevel": "2",
+      "minStationLevel": 2,
       "enabled": true,
       "repairStation": "piece_workbench",
       "resources": [
