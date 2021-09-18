@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "isRecipeRegistred": false,
+      "name": "Recipe_Club",
+      "item": "Club",
+      "amount": 1,
+      "craftingStation": "piece_workbench",
+      "minStationLevel": "1",
+      "enabled": true,
+      "repairStation": "piece_workbench",
+      "resources": [
+        {
+          "item": "Wood",
+          "amount": 3
+        },
+        {
+          "item": "Flint",
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}
