@@ -19,6 +19,46 @@
           "amount": 1
         }
       ]
+    },
+    {
+      "isRecipeRegistred": false,
+      "name": "Recipe_Bronze",
+      "item": "Bronze",
+      "amount": 2,
+      "craftingStation": "forge",
+      "minStationLevel": 1,
+      "enabled": true,
+      "repairStation": "forge",
+      "resources": [
+        {
+          "item": "Copper",
+          "amount": 2
+        },
+        {
+          "item": "Tin",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "isRecipeRegistred": false,
+      "name": "Recipe_Bronze5",
+      "item": "Bronze",
+      "amount": 10,
+      "craftingStation": "forge",
+      "minStationLevel": 1,
+      "enabled": true,
+      "repairStation": "forge",
+      "resources": [
+        {
+          "item": "Copper",
+          "amount": 10
+        },
+        {
+          "item": "Tin",
+          "amount": 5
+        }
+      ]
     }
   ]
 }
