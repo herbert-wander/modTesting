@@ -11,8 +11,8 @@
       "repairStation": "piece_workbench",
       "resources": [
         {
-          "amount": 1,
-          "item": "DeerHide"
+          "item": "DeerHide",
+          "amount": 1
         }
       ]
     }
