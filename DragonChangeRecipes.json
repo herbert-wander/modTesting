@@ -6,7 +6,7 @@
       "item": "Club",
       "amount": 1,
       "craftingStation": "piece_workbench",
-      "minStationLevel": "1",
+      "minStationLevel": 1,
       "enabled": true,
       "repairStation": "piece_workbench",
       "resources": [
