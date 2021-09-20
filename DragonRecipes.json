@@ -15,6 +15,54 @@
           "amount": 1
         }
       ]
+    },
+    {
+      "isRecipeRegistred": false,
+      "name": "Recipe_Iron_Chains",
+      "item": "Chain",
+      "amount": 5,
+      "craftingStation": "forge",
+      "minStationLevel": 2,
+      "enabled": true,
+      "repairStation": "forge",
+      "resources": [
+        {
+          "item": "Iron",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "isRecipeRegistred": false,
+      "name": "draugr_sword",
+      "item": "draugr_sword",
+      "amount": 1,
+      "craftingStation": "forge",
+      "minStationLevel": 2,
+      "enabled": true,
+      "repairStation": "forge",
+      "resources": [
+        {
+          "item": "Iron",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "isRecipeRegistred": false,
+      "name": "draugr_axe",
+      "item": "draugr_axe",
+      "amount": 1,
+      "craftingStation": "forge",
+      "minStationLevel": 2,
+      "enabled": true,
+      "repairStation": "forge",
+      "resources": [
+        {
+          "item": "Iron",
+          "amount": 2
+        }
+      ]
     }
   ]
 }
