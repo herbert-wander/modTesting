@@ -5,10 +5,10 @@
       "name": "Recipe_Leather_Scraps",
       "item": "LeatherScraps",
       "amount": 4,
-      "craftingStation": "piece_workbench",
+      "craftingStation": "$piece_workbench",
       "minStationLevel": 2,
       "enabled": true,
-      "repairStation": "piece_workbench",
+      "repairStation": "$piece_workbench",
       "resources": [
         {
           "item": "DeerHide",
@@ -21,10 +21,10 @@
       "name": "Recipe_Iron_Chains",
       "item": "Chain",
       "amount": 6,
-      "craftingStation": "forge",
+      "craftingStation": "$piece_forge",
       "minStationLevel": 2,
       "enabled": true,
-      "repairStation": "forge",
+      "repairStation": "$piece_forge",
       "resources": [
         {
           "item": "Iron",
