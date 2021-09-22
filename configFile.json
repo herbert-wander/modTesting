@@ -1,5 +1,5 @@
 {
-  "configList": [
+  "configDataBase": [
     {
       "section": "Geral",
       "key": "use_online_recipes",
