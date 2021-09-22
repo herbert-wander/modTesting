@@ -1,1 +1,16 @@
-
+{
+  "configList": [
+    {
+      "section": "Geral",
+      "key": "use_online_recipes",
+      "value": "true",
+      "description": "If set to true the mod will ignore the local json files for recipes and use mod author online json configs."
+    },
+    {
+      "section": "ProductionStations",
+      "key": "fuel_per_interaction",
+      "value": "50",
+      "description": "Every time you press E to add Fuel, Ore or any thing to the productions stations, this is will be the amount added"
+    }
+  ]
+}
