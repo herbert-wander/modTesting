@@ -5,10 +5,10 @@
       "name": "Recipe_Club",
       "item": "Club",
       "amount": 1,
-      "craftingStation": "piece_workbench",
+      "craftingStation": "$piece_workbench",
       "minStationLevel": 1,
       "enabled": true,
-      "repairStation": "piece_workbench",
+      "repairStation": "$piece_workbench",
       "resources": [
         {
           "item": "Wood",
@@ -25,10 +25,10 @@
       "name": "Recipe_Bronze",
       "item": "Bronze",
       "amount": 2,
-      "craftingStation": "forge",
+      "craftingStation": "$piece_forge",
       "minStationLevel": 1,
       "enabled": true,
-      "repairStation": "forge",
+      "repairStation": "$piece_forge",
       "resources": [
         {
           "item": "Copper",
@@ -45,10 +45,10 @@
       "name": "Recipe_Bronze5",
       "item": "Bronze",
       "amount": 10,
-      "craftingStation": "forge",
+      "craftingStation": "$piece_forge",
       "minStationLevel": 1,
       "enabled": true,
-      "repairStation": "forge",
+      "repairStation": "$piece_forge",
       "resources": [
         {
           "item": "Copper",
