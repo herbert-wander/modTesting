@@ -36,7 +36,7 @@ Use current status and table below to know in wich situation this project is.<br
 _________________
 
 ### :diamond_shape_with_a_dot_inside: Features
-All features are described here, if you dont find what you are looking for here, there is a 99% chance that this project dont have it, the 1% refers to things that may be in [To Do List](#To-Do-List) or [Working On](#Working-On).
+All features are described here, if you dont find what you are looking for here, there is a 99% chance that this project dont have it, the 1% refers to things that may be in [To Do List](#diamond_shape_with_a_dot_inside-To-Do-List) or [Working On](#diamond_shape_with_a_dot_inside-Working-On).
 #### &emsp; :bookmark: Category 01
 &emsp;&emsp;&emsp;:white_check_mark: Feature 01: Something cool that may be interesting for a lot of people
 #### &emsp;:bookmark: Category 02
@@ -57,5 +57,7 @@ _________________
 &emsp;&emsp;&emsp;:arrow_forward:
 _________________
 ### :diamond_shape_with_a_dot_inside: Contacts
+<a url="https://www.google.com"><img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg" height=50></a>
+
 _________________
 ### :diamond_shape_with_a_dot_inside: Credits
