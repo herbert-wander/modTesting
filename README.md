@@ -16,7 +16,10 @@ _________________
 ### :diamond_shape_with_a_dot_inside: Status
 Use current status and table below to know in wich situation this project is.<br>
 :loudspeaker: **<font color="red">Current Status =></font>** EXAMPLE<br>
-:loudspeaker: **Reason:** EXAMPLE
+:loudspeaker: **Reason:** EXAMPLE<br>
+:loudspeaker: **Warnings, Notes or Annonucements:** 
+:warning: EXAMPLE
+:warning: Example 2
 <div align="center">
 
 | Status        | Description |
@@ -49,9 +52,11 @@ _________________
 :construction: Task:
 _________________
 ### :diamond_shape_with_a_dot_inside: F.A.Q.
-#### &emsp;:bookmark: Category 01
-&emsp;&emsp;&emsp;:question: Who are you?:
-&emsp;&emsp;&emsp;:arrow_forward:
+#### &emsp;:bookmark: General
+&emsp;&emsp;&emsp;:large_blue_diamond:When will this project update to support \<insert game/software\> version \<x.xx.x\>:question:
+&emsp;&emsp;&emsp;:arrow_forward: **TL;DR:** Pls look at [Status](#diamond_shape_with_a_dot_inside-Status)
+&emsp;&emsp;&emsp;:arrow_forward: **Long Answer:** That will depend on a lot of variables like how much was changed by the original software/game, what is the actual Status of this project, how much free time i have at the moment and many other factors.<br>
+I'll always try to update any project that is still supported by me as fast as i can, but if i think that something make take more time than normally needed i'll try to inform through this README.
 #### &emsp;:bookmark: Category 02
 &emsp;&emsp;&emsp;:question: Who are you?:
 &emsp;&emsp;&emsp;:arrow_forward:
