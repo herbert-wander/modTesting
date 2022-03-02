@@ -9,9 +9,10 @@
 - [F.A.Q.](#FAQ)
 - [Contacts](#Contacts)
 - [Credits](#Credits)
-
+_________________
 ### :diamond_shape_with_a_dot_inside: About
 General description of the project
+_________________
 ### :diamond_shape_with_a_dot_inside: Status
 Use current status and table below to know in wich situation this project is.
 **<font color="red">Current Status =></font>** EXAMPLE
@@ -32,16 +33,21 @@ Use current status and table below to know in wich situation this project is.
 
 </div>
 
+_________________
+
 ### :diamond_shape_with_a_dot_inside: Features
 All features are described here, if you dont find what you are looking for here, there is a 99% chance that this project dont have it, the 1% refers to things that may be in [To Do List](#To-Do-List) or [Working On](#Working-On).
 #### &emsp; :bookmark: Category 01
 &emsp;&emsp;&emsp;:white_check_mark: Feature 01: Something cool that may be interesting for a lot of people
 #### &emsp;:bookmark: Category 02
 &emsp;&emsp;&emsp;:white_check_mark: Feature 01: Something cool that may be interesting for a lot of people
+_________________
 ### :diamond_shape_with_a_dot_inside: To Do List
 :black_square_button: Task: 
+_________________
 ### :diamond_shape_with_a_dot_inside: Working on
 :construction: Task:
+_________________
 ### :diamond_shape_with_a_dot_inside: F.A.Q.
 #### &emsp;:bookmark: Category 01
 &emsp;&emsp;&emsp;:question: Who are you?:
@@ -49,5 +55,7 @@ All features are described here, if you dont find what you are looking for here,
 #### &emsp;:bookmark: Category 02
 &emsp;&emsp;&emsp;:question: Who are you?:
 &emsp;&emsp;&emsp;:arrow_forward:
+_________________
 ### :diamond_shape_with_a_dot_inside: Contacts
+_________________
 ### :diamond_shape_with_a_dot_inside: Credits
