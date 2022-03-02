@@ -4,8 +4,12 @@
 
 - [About](#About)
 - [Status](#Status)
-- [Todo List](#Todo)
-- [Color](#color)
+- [To Do List](#To-Do-List)
+- [Working On](#Working-On)
+- [F.A.Q.](#F.A.Q.)
+- [Contacts](#Contacts)
+- [Credits](#Credits)
+
 #### About
 General description of the project
 #### Status
@@ -29,7 +33,7 @@ Use current status and table below to know in wich situation this project is.
 </div>
 
 #### Features
-#### Todo List
+#### To Do List
 #### Working on
 #### F.A.Q.
 #### Contacts
