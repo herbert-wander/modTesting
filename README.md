@@ -59,3 +59,4 @@ _________________
 ### :diamond_shape_with_a_dot_inside: Contacts
 _________________
 ### :diamond_shape_with_a_dot_inside: Credits
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=asdasdasdasdasda)
