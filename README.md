@@ -2,6 +2,7 @@
 
 ## :books: Table of Contents :books:
 
+- [Annonucements](#diamond_shape_with_a_dot_inside-Annonucements)
 - [About](#diamond_shape_with_a_dot_inside-About)
 - [Status](#diamond_shape_with_a_dot_inside-Status)
 - [To Do List](#diamond_shape_with_a_dot_inside-To-Do-List)
@@ -10,6 +11,10 @@
 - [Contacts](#diamond_shape_with_a_dot_inside-Contacts)
 - [Credits](#diamond_shape_with_a_dot_inside-Credits)
 _________________
+### :diamond_shape_with_a_dot_inside: Annonucements
+:warning: EXAMPLE <br>
+:warning: Example 2<br>
+_________________
 ### :diamond_shape_with_a_dot_inside: About
 General description of the project
 _________________
@@ -17,9 +22,6 @@ _________________
 Use current status and table below to know in wich situation this project is.<br>
 :loudspeaker: **<font color="red">Current Status =></font>** EXAMPLE<br>
 :loudspeaker: **Reason:** EXAMPLE<br>
-:loudspeaker: **Warnings, Notes or Annonucements:** 
-:warning: EXAMPLE
-:warning: Example 2
 <div align="center">
 
 | Status        | Description |
@@ -53,16 +55,22 @@ _________________
 _________________
 ### :diamond_shape_with_a_dot_inside: F.A.Q.
 #### &emsp;:bookmark: General
-&emsp;&emsp;&emsp;:large_blue_diamond:When will this project update to support \<insert game/software\> version \<x.xx.x\>:question:
-&emsp;&emsp;&emsp;:arrow_forward: **TL;DR:** Pls look at [Status](#diamond_shape_with_a_dot_inside-Status)
+&emsp;&emsp;&emsp;:large_blue_diamond:**When will this project update to support \<insert game/software\> version \<x.xx.x\>:question:**<br>
+&emsp;&emsp;&emsp;:arrow_forward: **TL;DR:** Pls look at [Status](#diamond_shape_with_a_dot_inside-Status)<br>
 &emsp;&emsp;&emsp;:arrow_forward: **Long Answer:** That will depend on a lot of variables like how much was changed by the original software/game, what is the actual Status of this project, how much free time i have at the moment and many other factors.<br>
-I'll always try to update any project that is still supported by me as fast as i can, but if i think that something make take more time than normally needed i'll try to inform through this README.
+I'll always try to update any project that is still supported by me as fast as i can, but if i think that something make take more time than normally needed i'll try to inform through this README([Annonucements](#diamond_shape_with_a_dot_inside-Annonucements)).
 #### &emsp;:bookmark: Category 02
-&emsp;&emsp;&emsp;:question: Who are you?:
-&emsp;&emsp;&emsp;:arrow_forward:
+&emsp;&emsp;&emsp;:large_blue_diamond:**When will this project update to support \<insert game/software\> version \<x.xx.x\>:question:**<br>
+&emsp;&emsp;&emsp;:arrow_forward: **TL;DR:** Pls look at [Status](#diamond_shape_with_a_dot_inside-Status)<br>
+&emsp;&emsp;&emsp;:arrow_forward: **Long Answer:** That will depend on a lot of variables like how much was changed by the original software/game, what is the actual Status of this project, how much free time i have at the moment and many other factors.<br>
+I'll always try to update any project that is still supported by me as fast as i can, but if i think that something make take more time than normally needed i'll try to inform through this README([Annonucements](#diamond_shape_with_a_dot_inside-Annonucements)).
 _________________
 ### :diamond_shape_with_a_dot_inside: Contacts
 <a href="https://www.google.com" target="_blank"><img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg" height=50></a>
+[Twitter]
+[Email]
+[Linkedin]
+[Discord]
 
 _________________
 ### :diamond_shape_with_a_dot_inside: Credits
