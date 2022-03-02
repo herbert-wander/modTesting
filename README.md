@@ -57,7 +57,7 @@ _________________
 &emsp;&emsp;&emsp;:arrow_forward:
 _________________
 ### :diamond_shape_with_a_dot_inside: Contacts
-<a url="https://www.google.com"><img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg" height=50></a>
+<a href="https://www.google.com"><img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg" height=50></a>
 
 _________________
 ### :diamond_shape_with_a_dot_inside: Credits
