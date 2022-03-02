@@ -66,10 +66,10 @@ I'll always try to update any project that is still supported by me as fast as i
 I'll always try to update any project that is still supported by me as fast as i can, but if i think that something make take more time than normally needed i'll try to inform through this README([Annonucements](#diamond_shape_with_a_dot_inside-Annonucements)).
 _________________
 ### :diamond_shape_with_a_dot_inside: Contacts
-<a href="https://www.google.com" target="_blank"><img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg" height=50></a>
-[Twitter]
-[Email]
-[Linkedin]
+<a href="https://www.google.com" target="_blank"><img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg" height=50></a><br>
+[Twitter]<br>
+[Email]<br>
+[Linkedin]<br>
 [Discord]
 
 _________________
