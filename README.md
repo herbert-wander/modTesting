@@ -1,18 +1,18 @@
 # <p align="center">Project Name</p>
-## Details
-#### Table of Contents
+
+## :books: Table of Contents :books:
 
 - [About](#About)
 - [Status](#Status)
 - [To Do List](#To-Do-List)
 - [Working On](#Working-On)
-- [F.A.Q.](#F.A.Q.)
+- [F.A.Q.](#FAQ)
 - [Contacts](#Contacts)
 - [Credits](#Credits)
 
-#### About
+#### :diamond_shape_with_a_dot_inside: About
 General description of the project
-#### Status
+#### :diamond_shape_with_a_dot_inside: Status
 Use current status and table below to know in wich situation this project is.
 **<font color="red">Current Status =></font>** EXAMPLE
 **Reason:** EXAMPLE
@@ -32,9 +32,22 @@ Use current status and table below to know in wich situation this project is.
 
 </div>
 
-#### Features
-#### To Do List
-#### Working on
-#### F.A.Q.
-#### Contacts
-#### Credits
+#### :diamond_shape_with_a_dot_inside: Features
+All features are described here, if you dont find what you are looking for here, there is a 99% chance that this project dont have it, the 1% refers to things that may be in [To Do List](#To-Do-List) or [Working On](#Working-On).
+##### &emsp; :bookmark: Category 01
+&emsp;&emsp;&emsp;:white_check_mark: Feature 01: Something cool that may be interesting for a lot of people
+##### &emsp;:bookmark: Category 02
+&emsp;&emsp;&emsp;:white_check_mark: Feature 01: Something cool that may be interesting for a lot of people
+#### :diamond_shape_with_a_dot_inside: To Do List
+:black_square_button: Task: 
+#### :diamond_shape_with_a_dot_inside: Working on
+:construction: Task:
+#### :diamond_shape_with_a_dot_inside: F.A.Q.
+##### &emsp;:bookmark: Category 01
+&emsp;&emsp;&emsp;:question: Who are you?:
+&emsp;&emsp;&emsp;:arrow_forward:
+##### &emsp;:bookmark: Category 02
+&emsp;&emsp;&emsp;:question: Who are you?:
+&emsp;&emsp;&emsp;:arrow_forward:
+#### :diamond_shape_with_a_dot_inside: Contacts
+#### :diamond_shape_with_a_dot_inside: Credits
