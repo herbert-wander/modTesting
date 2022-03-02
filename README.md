@@ -14,8 +14,8 @@ _________________
 General description of the project
 _________________
 ### :diamond_shape_with_a_dot_inside: Status
-Use current status and table below to know in wich situation this project is.
-**<font color="red">Current Status =></font>** EXAMPLE
+Use current status and table below to know in wich situation this project is.<br>
+**<font color="red">Current Status =></font>** EXAMPLE<br>
 **Reason:** EXAMPLE
 <div align="center">
 
