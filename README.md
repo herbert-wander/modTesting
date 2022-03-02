@@ -61,5 +61,4 @@ _________________
 
 _________________
 ### :diamond_shape_with_a_dot_inside: Credits
-[@herbert-wander]
-[@herbert-wander](https://github.com/herbert-wander)
+**[@herbert-wander](https://github.com/herbert-wander)**
