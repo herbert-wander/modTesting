@@ -2,21 +2,21 @@
 
 ## :books: Table of Contents :books:
 
-- [About](#About)
-- [Status](#Status)
-- [To Do List](#-To-Do-List)
-- [Working On](#Working-On)
-- [F.A.Q.](#FAQ)
-- [Contacts](#Contacts)
-- [Credits](#Credits)
+- [About](#diamond_shape_with_a_dot_inside-About)
+- [Status](#diamond_shape_with_a_dot_inside-Status)
+- [To Do List](#diamond_shape_with_a_dot_inside-To-Do-List)
+- [Working On](#diamond_shape_with_a_dot_inside-Working-On)
+- [F.A.Q.](#diamond_shape_with_a_dot_inside-FAQ)
+- [Contacts](#diamond_shape_with_a_dot_inside-Contacts)
+- [Credits](#diamond_shape_with_a_dot_inside-Credits)
 _________________
 ### :diamond_shape_with_a_dot_inside: About
 General description of the project
 _________________
 ### :diamond_shape_with_a_dot_inside: Status
 Use current status and table below to know in wich situation this project is.<br>
-**<font color="red">Current Status =></font>** EXAMPLE<br>
-**Reason:** EXAMPLE
+:loudspeaker: **<font color="red">Current Status =></font>** EXAMPLE<br>
+:loudspeaker: **Reason:** EXAMPLE
 <div align="center">
 
 | Status        | Description |
@@ -59,4 +59,3 @@ _________________
 ### :diamond_shape_with_a_dot_inside: Contacts
 _________________
 ### :diamond_shape_with_a_dot_inside: Credits
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=asdasdasdasdasda)
